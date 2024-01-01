@@ -30,8 +30,13 @@
   ###   ●	Close the doors of the 3d printer.
   ###   ●	Open the file from the USB storage and select the Print option.
 
+
+
+
 ## Input:
 ![Screenshot 2024-01-01 160202](https://github.com/tharunkumaran2006/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/151625188/12332b97-25ab-4524-8fe0-bca926827b88)
+
+
 
 ### Output:
 ![Screenshot 2024-01-01 160238](https://github.com/tharunkumaran2006/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/151625188/3958d4e1-d2d9-4f94-87f5-691c0747675b)
